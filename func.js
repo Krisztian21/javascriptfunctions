@@ -94,4 +94,4 @@ let Osszead = function(a, b){
 //arrow function
 
 let Osszead = (a, b) => a+b;
-console.log(Osszead(14, 28));
+console.log(Osszead(14, 28));0
